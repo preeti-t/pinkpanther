@@ -1,9 +1,9 @@
 # pinkpanther
 
- # We are the member of team  6 in HYF Belgium 
+## We are the member of team  6 in HYF Belgium 
 
 
-## Team member Names:
+### Team member Names:
 
 - [Rafael](/Rafael.md)
 - [Tahmina](/Tahmina.md)
